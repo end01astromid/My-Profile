@@ -1,6 +1,6 @@
 # Султан | Backend Engineer (Junior+)
 
-**Ищу: junior backend-позицию / стажировку (Node.js, TypeScript, NestJS). Удалённо / Офис.**
+**Ищу: backend-позицию / (Node.js, TypeScript, NestJS). Удалённо / Офис.**
 **Стек: TypeScript, NestJS, MongoDB, PostgreSQL, TypeORM.**
 **Интересы: Архитектура приложений, проектирование баз данных и разработка API.**
 
